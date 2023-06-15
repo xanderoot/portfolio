@@ -5,4 +5,4 @@ gerbosDiceBot.py is a dice rolling bot that makes use of the random.org API to p
 
 main.py is an audio bot I use with my friends. this is the only one that wont work on its own as the yt-dl thing required a manual fix,
 
-multithreading and multiprocessing are both tests to see how it works and how fast it is. the python 3.12 announcemnt/beta is what prompted it. I wanted to test the processing efficiency claims.
+multithreading and multiprocessing are both tests to see how it works and how fast it is. the python 3.12 announcemnt/beta is what prompted it. I wanted to test the processing efficiency claims. common functions is another file to move functions out of the main file for readability.
